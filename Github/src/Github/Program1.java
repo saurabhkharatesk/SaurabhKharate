@@ -5,7 +5,7 @@ public class Program1
     {
 		System.out.println("Hello");
 	        System.out.println("Saurabh");
-	        System.out.println("Yash");
+	
 	    
 	    
 	}
