@@ -1,12 +1,15 @@
 package Github;
 public class Program1 
 {
+	public void saurabh()
+	{
+		System.out.println("Saurabh is a Engg Student")
+	}
     public static void main(String[] args) 
     {
-		System.out.println("Hello");
-	        System.out.println("Saurabh");
-	
-	    
-	    
+	    Program1 p = new Program();
+	    p.saurabh();
+	    System.out.println("Hello");
+	    System.out.println("Saurabh");
 	}
 }
